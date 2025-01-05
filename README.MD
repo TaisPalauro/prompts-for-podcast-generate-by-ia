@@ -1,7 +1,10 @@
 <p align="center">
-<img 
-    src="./assets/cover.png"
+  <img 
+    src="https://raw.githubusercontent.com/TaisPalauro/prompts-for-podcast-generate-by-ia/refs/heads/main/assets/cover.jpg"
     width="300"
+  />
+</p>
+
 />
 </p>
 
